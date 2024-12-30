@@ -1,1 +1,1 @@
-chapters/introduction.adoc
+* xref:chapters/introduction.adoc[]

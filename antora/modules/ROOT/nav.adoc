@@ -1,4 +1,4 @@
 
 :chapters:
 
-* introduction.adoc
+* xref:introduction.adoc[]

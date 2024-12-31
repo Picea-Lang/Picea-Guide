@@ -8,4 +8,4 @@ asciidoc:
     table-caption: false
     chapters: ''
 nav:
-- nav.adoc
+- modules/ROOT/nav.adoc

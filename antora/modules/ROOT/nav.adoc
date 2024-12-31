@@ -1,4 +1,1 @@
-
-:chapters:
-
 * xref:introduction.adoc[]

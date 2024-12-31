@@ -8,10 +8,10 @@ asciidoc:
     table-caption: false
     chapters: ''
 nav:
-- modules/ROOT/nav.adoc
+  - modules/ROOT/nav.adoc
 content:
   sources:
     - url: .
       start_path: antora/modules/ROOT
     - url: .
-      start_path: chapters/
+      start_path: chapters

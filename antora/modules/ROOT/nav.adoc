@@ -1,1 +1,1 @@
-include::introduction.adoc[]
+include::chapters/introduction.adoc[]

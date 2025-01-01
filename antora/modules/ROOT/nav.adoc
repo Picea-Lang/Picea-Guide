@@ -1,1 +1,4 @@
-* xref:introduction.adoc[]
+
+:chapters:
+
+* include::chapters$introduction.adoc[]

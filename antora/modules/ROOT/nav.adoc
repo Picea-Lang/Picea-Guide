@@ -1,1 +1,1 @@
-* include::chapters$introduction.adoc[Introduction]
+include::chapters$introduction.adoc[Introduction]
